@@ -1,6 +1,6 @@
 # AboutMe
 <h2 align="left">Hi👋!<br>
-My name is Vaishnavi Paswan<br>📊 Aspiring Data Analyst <br>📈 Passionate about turning data into insights<br>🔍 Interested in Data Visualization, Machine Learning, and Business Analytics<br>🛠️ Skills: Python, SQL, Excel,Pandas, NumPy<br>📂 Exploring real-world datasets and building analytical dashboards<br>🚀 Open to collaborations and learning opportunities<br><br>💡 Let's connect!</h2>
+My name is Vaishnavi Paswan<br>🔍 Interested in Data Visualization, Machine Learning, and Analytics<br>🛠️ Skills: Python, SQL, Excel,Pandas, NumPy<br>📂 Exploring real-world datasets and building analytical dashboards<br>🚀 Open to collaborations and learning opportunities<br><br>💡 Let's connect!</h2>
 
 ###
 
